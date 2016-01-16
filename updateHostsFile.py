@@ -34,8 +34,8 @@ except ImportError:
 # This function handles both Python 2 and Python 3
 def getFileByUrl(url):
 	try:
-		f = urlopen(url)
-		return f.read().decode( "UTF-8" )
+                f = urlopen(url)
+                return f.read().decode( "UTF-8" )
 	except:
 		print ( "Problem getting file: ", url );
 		# raise
@@ -73,6 +73,7 @@ DATA_PATH           = os.path.join( BASEDIR_PATH, 'data' )
 DATA_FILENAMES      = 'hosts'
 UPDATE_URL_FILENAME = 'update.info'
 SOURCES             = listdir_nohidden( DATA_PATH )
+SOURCES.sort()
 README_TEMPLATE     = os.path.join( BASEDIR_PATH, 'readme_template.md' )
 README_FILE         = os.path.join( BASEDIR_PATH, 'readme.md' )
 TARGET_HOST         = '0.0.0.0'
@@ -80,7 +81,7 @@ WHITELIST_FILE      = os.path.join( BASEDIR_PATH, 'whitelist' )
 
 # Exclusions
 EXCLUSION_PATTERN = '([a-zA-Z\d-]+\.){0,}' #append domain the end
-EXCLUSIONS        = []
+EXCLUSIONS        = ['hulu.com', 'youtube.com']
 # Common domains to exclude
 COMMON_EXCLUSIONS = ['hulu.com']
 
@@ -255,7 +256,6 @@ def removeDupsAndExcl( mergeFile ):
 			numberOfRules += 1
 
 	mergeFile.close()
-
 	return finalFile
 
 def normalizeRule(rule):
@@ -267,7 +267,11 @@ def normalizeRule(rule):
 			# add suffix as comment only, not as a separate host
 			return hostname, "%s %s #%s\n" % ( TARGET_HOST, hostname, suffix )
 		else:
-			return hostname, "%s %s\n" % ( TARGET_HOST, hostname )
+                        if target == '127.0.0.1':
+                            return hostname, "%s %s\n" % ( TARGET_HOST, hostname )
+                        else:
+                            return hostname, "%s %s\n" % ( target, hostname )
+
 	print ( '==>%s<==' % rule )
 	return None, None
 
