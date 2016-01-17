@@ -83,7 +83,7 @@ WHITELIST_FILE      = os.path.join( BASEDIR_PATH, 'whitelist' )
 EXCLUSION_PATTERN = '([a-zA-Z\d-]+\.){0,}' #append domain the end
 EXCLUSIONS        = ['hulu.com', 'youtube.com']
 # Common domains to exclude
-COMMON_EXCLUSIONS = ['hulu.com']
+COMMON_EXCLUSIONS = ['hulu.com','youtube.com']
 
 # Global vars
 exclusionRegexs = []
