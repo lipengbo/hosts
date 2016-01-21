@@ -7,5 +7,6 @@
 0.0.0.0 vip2.rwjfs.com
 0.0.0.0 rwjfs.com
 0.0.0.0 lnews1zhan.top
-122.96.141.86 out.lipengbo.wk
-192.168.6.132 in.lipengbo.wk
+122.96.141.86 out.lpb.wk #ssh -p 6132 root@122.96.141.86 密码：000000
+192.168.6.132 in.lpb.wk
+58.248.254.12 gz.lt.wk #端口 8668 密码：2014i@3gtv!@#

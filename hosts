@@ -17,6 +17,8 @@
 0.0.0.0 vip2.rwjfs.com
 0.0.0.0 rwjfs.com
 0.0.0.0 lnews1zhan.top
+122.96.141.86 out.lipengbo.wk
+192.168.6.132 in.lipengbo.wk
 ##              
 # Copyright (c) 2015-2016, ]Liuker Team[.
 #
@@ -4178,7 +4180,7 @@
 0.0.0.0 eviltracker.net
 0.0.0.0 do-not-tracker.org ##
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
-#         Last updated: Sat, 16 Jan 16 15:12:47 +0000      #
+#         Last updated: Wed, 20 Jan 16 18:06:21 +0000      #
 
 
 0.0.0.0 0koryu0.easter.ne.jp
@@ -4324,6 +4326,7 @@
 0.0.0.0 avecat.missouritheatre.org
 0.0.0.0 aveconomic.trailswest.org
 0.0.0.0 avirasecureserver.com
+0.0.0.0 avppet.com
 0.0.0.0 axisbuild.com
 0.0.0.0 azoos.csheaven.com
 0.0.0.0 b-traffickimb.tf
@@ -4359,6 +4362,7 @@
 0.0.0.0 blackfalcon4.net
 0.0.0.0 blackfalcon5.net
 0.0.0.0 blacknite.eu
+0.0.0.0 blog.replacemycontacts.com
 0.0.0.0 bloodguru.net
 0.0.0.0 bluecutsystem.com
 0.0.0.0 bnsoutlaws.co.uk
@@ -4587,6 +4591,7 @@
 0.0.0.0 gulsproductions.com
 0.0.0.0 gurde.tourstogo.us
 0.0.0.0 guyscards.com
+0.0.0.0 gvvir.com
 0.0.0.0 gyboo.cruisingsmallship.com
 0.0.0.0 gylra.cruisingsmallship.com
 0.0.0.0 h-trafficimg.tf
@@ -4937,6 +4942,7 @@
 0.0.0.0 potvaporizer.com
 0.0.0.0 powerhosting.tv
 0.0.0.0 powershopnet.net
+0.0.0.0 pradakomechanicals.com
 0.0.0.0 praxisww.com
 0.0.0.0 pride-u-bike.com
 0.0.0.0 private.hotelcesenaticobooking.info
@@ -5455,9 +5461,11 @@
 0.0.0.0 www.advancesrl.eu
 0.0.0.0 www.aerreravasi.com
 0.0.0.0 www.agrimont.cz
+0.0.0.0 www.altech.com
 0.0.0.0 www.angolotesti.it
 0.0.0.0 www.anticarredodolomiti.com
 0.0.0.0 www.archigate.it
+0.0.0.0 www.areadiprova.eu
 0.0.0.0 www.arkinsoftware.in
 0.0.0.0 www.askmeaboutrotary.com
 0.0.0.0 www.assculturaleincontri.it
@@ -5523,6 +5531,7 @@
 0.0.0.0 www.frosinonewesternshow.it
 0.0.0.0 www.galileounaluna.com
 0.0.0.0 www.gameangel.com
+0.0.0.0 www.gasthofpost-ebs.de
 0.0.0.0 www.gliamicidellunicef.it
 0.0.0.0 www.gmcjjh.org
 0.0.0.0 www.goooglesecurity.com
@@ -5595,6 +5604,7 @@
 0.0.0.0 www.praxisww.com
 0.0.0.0 www.prfelectrical.com.au
 0.0.0.0 www.professionalblackbook.com
+0.0.0.0 www.profill-smd.com
 0.0.0.0 www.propan.ru
 0.0.0.0 www.purplehorses.net
 0.0.0.0 www.qstopuniversitiesguide.com
@@ -5607,6 +5617,7 @@
 0.0.0.0 www.ristoromontebasso.it
 0.0.0.0 www.rokus-tgy.hu
 0.0.0.0 www.rooversadvocatuur.nl
+0.0.0.0 www.rst-velbert.de
 0.0.0.0 www.saemark.is
 0.0.0.0 www.sailing3.com
 0.0.0.0 www.sankyo.gr.jp
@@ -21001,7 +21012,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Jan 16th, 2016 at 11:26
+# Last updated: Jan 19th, 2016 at 18:19
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -25331,6 +25342,7 @@
 0.0.0.0 adv.merlin.co.il
 0.0.0.0 adv.netshelter.net
 0.0.0.0 ad-void.com
+0.0.0.0 adv-op2.joygames.me
 0.0.0.0 advplace.com
 0.0.0.0 advplace.nuggad.net
 0.0.0.0 adv.publy.net
@@ -26471,6 +26483,7 @@
 0.0.0.0 go.lfstmedia.com
 0.0.0.0 go.lotech.bbelements.com
 0.0.0.0 goodbizez.com
+0.0.0.0 goodbookbook.com
 0.0.0.0 goodsblock.marketgid.com
 0.0.0.0 goody-garage.com
 0.0.0.0 go.pl.bbelements.com
@@ -26906,7 +26919,6 @@
 0.0.0.0 manuel.theonion.com
 0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marketing-rewardpath.com
-0.0.0.0 marketwatch.com
 0.0.0.0 marketwatch.com.edgesuite.net
 0.0.0.0 marriottinternationa.tt.omtrdc.net
 0.0.0.0 mashinkhabar.com
@@ -27385,6 +27397,7 @@
 0.0.0.0 popup.taboola.com
 0.0.0.0 pos.baidu.com
 0.0.0.0 posed2shade.com
+0.0.0.0 poster-op2joygames.me
 0.0.0.0 postmasterdirect.com
 0.0.0.0 post.rmbn.ru
 0.0.0.0 pp2.pptv.com
@@ -28063,7 +28076,6 @@
 0.0.0.0 thepiratetrader.com
 0.0.0.0 the-smart-stop.com
 0.0.0.0 thesuperdeliciousnews.com
-0.0.0.0 thetradedesk.com
 0.0.0.0 theuploadbusiness.com
 0.0.0.0 theuseful.com
 0.0.0.0 theuseful.net
@@ -28994,7 +29006,6 @@
 0.0.0.0 www.macombdisplayads.com
 0.0.0.0 www.market-buster.com
 0.0.0.0 www.marketing-rewardpath.com
-0.0.0.0 www.marketwatch.com
 0.0.0.0 www.marketwatch.com.edgesuite.net
 0.0.0.0 www.mastertracks.be
 0.0.0.0 www.media2.travelzoo.com
@@ -29180,7 +29191,6 @@
 0.0.0.0 www.the-binary-theorem.com
 0.0.0.0 www.the-path-gateway.com
 0.0.0.0 www.the-smart-stop.com
-0.0.0.0 www.thetradedesk.com
 0.0.0.0 www.thetraderinpajamas.com
 0.0.0.0 www.theuseful.com
 0.0.0.0 www.theuseful.net
